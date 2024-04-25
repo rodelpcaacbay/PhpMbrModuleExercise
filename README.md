@@ -1,2 +1,2 @@
 # PhpMbrModuleExercise
-Php Members Module Exercise
+for Php Members Module Exercise only
